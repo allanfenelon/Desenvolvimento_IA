@@ -11,8 +11,6 @@ Cada nível há um título especifico para o desafio prático. O desafio do nive
 │   ├── notebooks/
 │   └── desafio.ipynb    # Arquivo com desafio feito
 │   ├── outras_pastas    # Se for o caso, o nome de outras pastas
-│   └──
 └── requirements.txt  
-└──
 ```
 
